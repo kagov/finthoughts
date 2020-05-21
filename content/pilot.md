@@ -1,6 +1,6 @@
 +++
 title = "Pilot"
-image = "/images/post/post-2.jpg"
+image = "/images/post/pilot-banner.jpg"
 author = "Kaushik"
 date = 2020-05-20
 categories = ["Money"]
