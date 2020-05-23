@@ -39,6 +39,12 @@ link = "plugins/search/search.js"
 
 ########################### Navigation ###################################
 
+# main menu
+[[menu.main]]
+URL = "author/kaushik"
+name = "About"
+weight = 1
+
 # footer menu
 
 
@@ -49,8 +55,8 @@ home = "Home"
 # logo
 #logo = "images/logo.svg"
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Kaushik"
+description = "Basic economics, finance and some things about money"
 # google tag manager
 google_tag_manager = "" # your id
 # google analitycs ID
